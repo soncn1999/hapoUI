@@ -1,0 +1,14 @@
+{
+  "name": "hapoerp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sasstocss": "node-sass stylesheet/sass/main.scss stylesheet/style.css"
+  },
+  "author": "cns",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
